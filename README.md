@@ -1,191 +1,189 @@
 
-<!-- ===================== HERO ===================== -->
+<h1 align="center">Hi 👋, I'm Gaurav Raj</h1>
 
-<div align="center">
+<h3 align="center">
+  Full Stack Developer | React.js • Node.js • MongoDB
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I'm+Gaurav+Raj+%F0%9F%91%8B;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Ideas+Into+Reality" alt="Gaurav Raj - Animated Introduction" />
-
-<p>
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-0D1117?style=for-the-badge&logo=github&logoColor=39D353" alt="Full Stack Developer"/>
-  <img src="https://img.shields.io/badge/JavaScript-Developer-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-</p>
-
-<p>
+<p align="center">
   <a href="https://github.com/GauravRaj25">
-    <img src="https://komarev.com/ghpvc/?username=GauravRaj25&style=flat-square&color=39D353&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=GauravRaj25&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/GauravRaj25?tab=followers">
+    <img src="https://img.shields.io/github/followers/GauravRaj25?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </p>
 
-*Passionate about building scalable applications and solving real-world problems.*
-
-<a href="https://github.com/GauravRaj25?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Projects-238636?style=for-the-badge&logo=github" alt="Explore Projects"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=GauravRaj25&theme=tokyonight&no-frame=true&margin-w=8&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-```javascript
-const gaurav = {
-  name: "Gaurav Raj",
-  role: "Full Stack Developer",
-  education: "B.Tech CSE — DIT University",
-  experience: "Infosys — Full Stack Developer Intern",
-  stack: ["React.js", "Node.js", "Express.js", "MongoDB"],
-  interests: ["Web Development", "AI Integration", "DSA"],
-  currentlyBuilding: "SkillLens — AI Career Platform",
-  goal: "Build useful, reliable software"
-};
-```
-
-- 🔭 Building **SkillLens**, an AI-powered career intelligence platform.
-- 💼 Completed a Full Stack Developer internship at Infosys.
-- 🌱 Improving my skills in backend development, DSA and System Design.
-- 💬 Ask me about React.js, Node.js, REST APIs and MongoDB.
-- 📫 Email: **[gauravraj954647@gmail.com](mailto:gauravraj954647@gmail.com)**
-- 🤝 Open to collaboration on meaningful software projects.
+- 🎓 B.Tech in Computer Science and Engineering, DIT University
+- 💼 Full Stack Developer Intern at Infosys
+- 🔭 Building **SkillLens**, an AI-powered career intelligence platform
+- 🌱 Learning advanced React.js, Node.js, DSA and System Design
+- 💬 Ask me about React.js, Express.js, REST APIs, MongoDB and SQL
+- 🤖 Interested in AI integration and building useful web applications
+- 📫 Reach me at **gauravraj954647@gmail.com**
+- 🔗 [LinkedIn](https://linkedin.com/in/gauravraj25)
+- 💻 [GitHub](https://github.com/GauravRaj25)
+- ⚡ I enjoy building projects that solve real-world problems
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Languages and Tools
 
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=cpp,js&theme=dark" alt="Programming Languages"/>
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="Frontend Technologies"/>
-
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend and Databases"/>
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel&theme=dark" alt="Development Tools"/>
-
-</div>
+<p align="center">
+  <a href="https://www.w3.org/html/">
+    <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML" />
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" width="45" alt="JavaScript" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" width="45" alt="React" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind CSS" />
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js" />
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://skillicons.dev/icons?i=express" width="45" alt="Express.js" />
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL" />
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://skillicons.dev/icons?i=cpp" width="45" alt="C++" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
+  </a>
+  <a href="https://www.postman.com/">
+    <img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman" />
+  </a>
+  <a href="https://vercel.com/">
+    <img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Vercel" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🤖 SkillLens — AI Career Intelligence Platform
 
-<a href="https://github.com/GauravRaj25/Skill-Lens">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GauravRaj25&repo=Skill-Lens&theme=github_dark&bg_color=0D1117&title_color=39D353&icon_color=39D353&border_color=30363D" alt="SkillLens Project"/>
-</a>
-
-</div>
-
-### 🤖 SkillLens — AI Career Intelligence
-
-An AI-powered platform designed to help candidates understand their career readiness.
-
-- Resume analysis and ATS readiness scoring
-- Skill-gap analysis and job-role matching
-- AI-generated interview questions
+- AI-powered resume analysis and ATS readiness scoring
+- Career assistant with skill-gap analysis and job-role matching
+- Interview question generation using LLM integration
 - JWT authentication, OTP verification and Google OAuth
 
-**Tech:** React.js · Node.js · Express.js · MongoDB · OpenRouter AI
+**Tech:** React.js, Node.js, Express.js, MongoDB, OpenRouter AI
+
+<p>
+  <a href="https://github.com/GauravRaj25/Skill-Lens">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GauravRaj25&repo=Skill-Lens&theme=tokyonight" alt="SkillLens Repository" />
+  </a>
+</p>
 
 ### 🏙️ CleanStreet — Civic Issue Reporting
 
-A web application for reporting and tracking civic issues.
+- Report and track civic issues
+- Location-based complaint assignment and status tracking
+- Secure authentication and role-based access control
+- Admin analytics and image uploads
 
-- Location-based complaint assignment
-- Complaint status tracking
-- JWT authentication and role-based access control
-- Image uploads and admin analytics
-
-**Tech:** React.js · Node.js · Express.js · MongoDB · MySQL · Cloudinary
+**Tech:** React.js, Node.js, Express.js, MongoDB, MySQL, Cloudinary
 
 ### 💼 Job Portal
 
-A full-stack platform for job seekers and recruiters.
-
-- Job posting, searching and applications
+- Job posting, search and application management
 - Recruiter dashboard and applicant management
-- Clerk authentication and Sentry monitoring
-- Responsive UI and database-backed search
+- Secure authentication and error monitoring
+- Responsive user interface
 
-**Tech:** React.js · Node.js · Express.js · MongoDB · Tailwind CSS
+**Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
 
-<div align="center">
-
-<a href="https://github.com/GauravRaj25?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-39D353?style=for-the-badge&logo=github&logoColor=0D1117" alt="All Repositories"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/GauravRaj25?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-All%20Repositories-2ea44f?style=for-the-badge&logo=github" alt="Explore Repositories" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GauravRaj25&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravRaj25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GauravRaj25&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9&border_color=30363D" alt="GitHub Statistics"/>
+### 🔥 Contribution Streak
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravRaj25&layout=compact&langs_count=8&theme=github_dark&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&border_color=30363D" alt="Most Used Languages"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GauravRaj25&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
 
-</div>
+### 📈 Contribution Activity Graph
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravRaj25&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</p>
 
-## 🔥 Contribution Streak
+### 📅 Contribution Calendar
 
-<div align="center">
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/GauravRaj25" alt="GitHub Contribution Calendar" width="100%" />
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=GauravRaj25&theme=dark&background=0D1117&border=30363D&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak" width="90%"/>
+### 📌 Profile Summary
 
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GauravRaj25&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
+</p>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravRaj25&bg_color=0D1117&color=C9D1D9&line=39D353&point=39D353&area=true&area_color=238636&title_color=39D353&hide_border=false" alt="GitHub Contribution Activity" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GauravRaj25&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GauravRaj25&theme=tokyonight" alt="GitHub Stats Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GauravRaj25&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://linkedin.com/in/gauravraj25">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/GauravRaj25">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:gauravraj954647@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/GauravRaj25/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
 
-<a href="https://github.com/GauravRaj25">
-  <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=39D353" alt="GitHub"/>
-</a>
-<a href="https://linkedin.com/in/gauravraj25">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
-<a href="mailto:gauravraj954647@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-</a>
-<a href="https://leetcode.com/GauravRaj25/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&height=40&lines=Thanks+for+visiting!;Let's+build+something+great+%F0%9F%9A%80" alt="Animated Footer"/>
-
-**⭐ Thanks for visiting my profile!**
-
-</div>
+<p align="center">
+  <b>💻 Building. Learning. Improving. One commit at a time.</b>
+</p>
